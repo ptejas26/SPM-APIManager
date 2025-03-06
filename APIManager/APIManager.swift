@@ -4,6 +4,7 @@
 //
 //  Created by Tejas on 2024-04-04.
 //
+import Foundation
 
 public enum RequestType: String {
     case get = "GET"
