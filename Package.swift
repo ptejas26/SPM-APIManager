@@ -1,5 +1,3 @@
-// swift-tools-version:5.7 // Or the latest version you're using
-
 import PackageDescription
 
 let package = Package(
